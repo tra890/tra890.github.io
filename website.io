@@ -22,3 +22,8 @@
     <a href="https://www.nytimes.com/">Nytime.com</a>
     
     <img src="<img src="images.jpeg" width"20%" atl="a picture of a phone case">
+     h1 {
+       color: red;
+       text-algin: center;
+     }
+    
