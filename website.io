@@ -20,6 +20,5 @@
     Plain Case: $7.00<br> Graphic Case: $10.00
     
     <a href="https://www.nytimes.com/">Nytime.com</a>
-    <img src="<img src="images.jepg" alt="Phone Case
-
-
+    
+    <img src="<img src="images.jpeg" width"20%" atl="a picture of a phone case">
