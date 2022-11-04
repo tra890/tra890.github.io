@@ -19,6 +19,6 @@
     <p>
     Plain Case: $7.00<br> Graphic Case: $10.00
     
-    <a href="https://www.casetify.com/"</a>  
+    <a href="https://www.nytimes.com/">Nytime.com</a>
 
 
