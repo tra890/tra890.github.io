@@ -19,6 +19,6 @@
     <p>
     Plain Case: $7.00<br> Graphic Case: $10.00
     
-    <a href="https://www.casetify.com/"> target=" _blank">Visit Casetify.com!</a>  
+    <a> href="https://www.casetify.com/"> target=" _blank">Visit Casetify.com!</a>  
 
 
