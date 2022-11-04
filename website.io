@@ -7,8 +7,8 @@
      About 
   <H1>
   <p> 
-  This is my phone cases business that started in September of 2022. I startd it to make a lot money. This business is very important 
-  
+  This is my phone cases business that started in September of 2022. I startd it to make a lot money. This business is very important<br> 
+  This business was inspired by us needing money. We hope that everyone loves and enjoys all of casws.
   </p>
   <p>
   I started this business for then we got a little bit serious about it.
@@ -20,5 +20,6 @@
     Plain Case: $7.00<br> Graphic Case: $10.00
     
     <a href="https://www.nytimes.com/">Nytime.com</a>
+    <img src="<img src="images.jepg" alt="Phone Case
 
 
