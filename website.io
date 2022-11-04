@@ -13,6 +13,13 @@
   <p>
   I started this business for then we got a little bit serious about it.
   </p>
+  <h2>
+    Prices
+    </h2>
+    <p>
+    Plain Case: $7.00<br> Graphic Case: $10.00
+    
+    <a href="
   
   
 
