@@ -19,7 +19,7 @@
     <p>
     Plain Case: $7.00<br> Graphic Case: $10.00
     
-    <a href="https://www.nytimes.com/">Nytime.com</a>
+    <p><a href="https://www.nytimes.com/">Nytime.com</a></P>
     
     <img src="<img src="images.jpeg" width"20%" atl="a picture of a phone case">
      h1 {
